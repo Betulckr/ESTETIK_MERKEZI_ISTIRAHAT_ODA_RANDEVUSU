@@ -1,0 +1,8 @@
+
+		**GUNLUK HASTA RAPORU**
+
+	HASTA NO	HASTA ADI	HASTA SOYADI	HASTA YASI	HASTA TC NO
+
+             1             elif           su           26         12345
+
+	Toplamda 1 Hasta Sayisi Listelendi.
